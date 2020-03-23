@@ -12,3 +12,4 @@ public class variables {
         System.out.println(is_true);
     }
 }
+
