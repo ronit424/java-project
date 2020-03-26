@@ -7,7 +7,7 @@ public class SimpleIntrest {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the Principal : ");
         p = scan.nextFloat();
-        System.out.print("Enter the Rate of interest : ");
+        System.out.print("Enter  Rate of interest : ");
         r = scan.nextFloat();
         System.out.print("Enter the Time period : ");
         t = scan.nextFloat();
