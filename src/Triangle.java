@@ -4,7 +4,7 @@ public class Triangle {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter the width of the Triangle:");
+        System.out.println("Enter  width of the Triangle:");
         double base = scanner.nextDouble();
 
         System.out.println("Enter the height of the Triangle:");
