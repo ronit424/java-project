@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OddEven {
+public class Newodd {
     public static void main(String args[])
     {
         int num;
@@ -13,9 +13,9 @@ public class OddEven {
         /* If number is divisible by 2 then it's an even number
          * else odd number*/
         if ( num % 2 == 0 )
-            System.out.println("Entered number is even");
+            System.out.println(" the Entered number is even");
         else
-            System.out.println("Entered number is odd");
+            System.out.println("  the Entered number is odd");
     }
 }
 
