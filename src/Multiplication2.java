@@ -1,7 +1,7 @@
-public class Power {
+public class Multiplication2 {
     public static void main(String[] args) {
         //Here number is the base and p is the exponent
-        int number = 2, p = 5;
+        int number = 2, p = 3;
         long result = 1;
 
         //Copying the exponent value to the loop counter
