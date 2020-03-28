@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Isos {
+public class sumoftriangle2 {
     public static void main(String args[])
     {
 
@@ -10,7 +10,7 @@ public class Isos {
 
         double a= s.nextDouble();
 
-        System.out.println("Enter the side2 of the Triangle");
+        System.out.println("Enter the side no2 of the Triangle");
 
         double b= s.nextDouble();
 
