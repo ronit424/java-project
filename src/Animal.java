@@ -1,6 +1,10 @@
 public class Animal {
-    public static String iamdog(){
+    public  String iamdog(){
         return "i am dog";
+    }
+
+    public static String sound() {
+        return "I bark";
     }
 
 }
