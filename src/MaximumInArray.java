@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Array {
+public class MaximumInArray {
     public static void main(String[] args)
     {
         int n, max;
