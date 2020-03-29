@@ -6,7 +6,7 @@ public class sumoftriangle2 {
 
         Scanner s= new Scanner(System.in);
 
-        System.out.println("Enter the length of same sided");
+        System.out.println("Enter the length of same side");
 
         double a= s.nextDouble();
 
