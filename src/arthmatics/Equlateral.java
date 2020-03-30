@@ -1,3 +1,5 @@
+package arthmatics;
+
 import java.util.Scanner;
 
 public class Equlateral {
