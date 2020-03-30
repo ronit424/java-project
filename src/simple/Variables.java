@@ -1,3 +1,5 @@
+package simple;
+
 public class Variables {
     public static void main(String[]args) {
         short my_variable = 10;

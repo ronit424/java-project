@@ -1,3 +1,5 @@
+package simple;
+
 public class NewJava {
     public static void main(String[] args) {
         String mystring = "Hello e world e";

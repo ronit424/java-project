@@ -1,3 +1,5 @@
+package simple;
+
 public class NewConstructor {
     public NewConstructor() {
         System.out.println("constructor was called");
