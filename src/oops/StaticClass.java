@@ -1,3 +1,5 @@
+package oops;
+
 public class StaticClass {
     public static int age;
     public static String dosomething(String message){
