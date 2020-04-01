@@ -13,4 +13,12 @@ public class Card {
     public void setCardId(Integer cardId) {
         this.cardId = cardId;
     }
+
+    public Date getExpirationDate() {
+        return expirationDate;
+    }
+
+    public void setExpirationDate(Date expirationDate) {
+        this.expirationDate = expirationDate;
+    }
 }
