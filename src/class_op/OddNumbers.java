@@ -1,3 +1,5 @@
+package class_op;
+
 import java.util.Scanner;
 
 public class OddNumbers {
@@ -9,10 +11,9 @@ public class OddNumbers {
         num = input.nextInt();
 
 
-        if ( num % 2 == 0 )
-            System.out.println(" the Entered number is not odd");
-        else
-            System.out.println("  the Entered number is odd");
+        if ( num % 2 != 0 )
+            System.out.println(" the Entered number is odd");
+
     }
 }
 
