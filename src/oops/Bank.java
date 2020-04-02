@@ -1,7 +1,6 @@
 package oops;
 
-public class Bank {
-    int getInterestRate(){
-        return 0;
+ public interface Bank {
+     int getInterestRate();
     }
-}
+
