@@ -1,3 +1,5 @@
+package array;
+
 public class Array2 {
     public static void main(String args[]) {
         int[] array = {10, 20, 30, 40, 50, 10};
