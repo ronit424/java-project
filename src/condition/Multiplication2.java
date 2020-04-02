@@ -1,3 +1,5 @@
+package condition;
+
 public class Multiplication2 {
     public static void main(String[] args) {
         //Here number is the base and p is the exponent
