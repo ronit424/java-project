@@ -1,6 +1,7 @@
 package arthmatics;
 
-public class Assignment {
+public class
+Assignment {
     public static void main(String[]args){
         int x = 10;
         x *= 5;
