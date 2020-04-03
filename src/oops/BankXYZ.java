@@ -1,7 +1,7 @@
 package oops;
 
-public class BankXYZ extends Bank {
-    int getInterestRate(){
+public class BankXYZ implements Bank {
+    public int getInterestRate(){
         return 10;
     }
 }
