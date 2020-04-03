@@ -1,3 +1,5 @@
+package loop;
+
 public class WhileDo {
     public static void main(String[] args) {
         int a = 0;

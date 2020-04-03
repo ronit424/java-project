@@ -1,3 +1,5 @@
+package loop;
+
 public class loop2 {
     public static void main(String[] args) {
         int[] myintarry = {100,31,26,49,52};
